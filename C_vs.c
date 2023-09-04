@@ -8,7 +8,7 @@
  * 
  * Return: 0
 */
-int main(argc, argv)
+int main(void)
 {
 	printf("Hello World\n");
 	return (0);
